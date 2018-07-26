@@ -1,0 +1,6 @@
+use_frameworks!
+target 'catframe_Tests' do
+  pod 'catframe', :path => '../'
+  
+  
+end

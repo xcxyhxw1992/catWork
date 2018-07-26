@@ -1,0 +1,6 @@
+framework module catframe {
+  umbrella header "catframe-umbrella.h"
+
+  export *
+  module * { export * }
+}

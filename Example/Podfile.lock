@@ -1,0 +1,16 @@
+PODS:
+  - catframe (0.1.0)
+
+DEPENDENCIES:
+  - catframe (from `../`)
+
+EXTERNAL SOURCES:
+  catframe:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  catframe: 7622c506c0b8633497ed6b4ff1ea020982dd5f60
+
+PODFILE CHECKSUM: d2b649111fc5e1f9ec9935060bcbd7252d9a8a04
+
+COCOAPODS: 1.5.3
